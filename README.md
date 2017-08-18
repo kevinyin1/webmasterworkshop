@@ -5,5 +5,7 @@
 ## General Information
 - Service Year: 2016-2017
 - District Webmaster: Kevin Yin
-
+- Presented at:
+  - Divisional Training Conference
+  - Fall Rally
   
